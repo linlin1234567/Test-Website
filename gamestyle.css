@@ -1,0 +1,91 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ body{
+ 	height: 100vh;
+ 	background: white;
+ 	justify-content: center;
+ 	align-items: center;
+ 	background-image: url(gamebg.jpg);
+ 	background-size: cover;
+ 	background-position: center;
+
+
+ 	 }
+ .link{
+ 	width: 90%;
+ 	margin: auto;
+ 	padding: 40px 0;
+ 	display: f;
+ 	align-items: center;
+ 	justify-content: space-between;
+ }
+ .link ul li{
+ 	list-style: none;
+ 	display: inline-block;
+ 	margin: 0 20px;
+
+ }
+ .link ul{
+ 	margin-left: 880px;
+ }
+ .link ul li a{
+ 	text-decoration: none;
+ 	color: #fff;
+ 	text-transform: uppercase;
+ }
+ .link ul li a:hover{
+ 	color: red 
+ }
+
+.content{
+	display: inline-block;
+	width: 40%;
+	background-color: grey;
+	margin: 25px;
+
+}
+
+.picture img{
+	width: 100%;
+}
+.title {
+	text-align: center;
+}
+.desc{
+	text-align: center;
+}
+.content{
+	width: 40%;
+
+	background-color: grey;
+	margin: 25px;
+}
+
+.picture2 img{
+	width: 100%;
+}
+.title2 {
+	text-align: center;
+}
+.desc2{
+	text-align: center;
+}
+.content{
+	width: 40%;
+
+	background-color: grey;
+	margin: 25px;
+}
+
+.picture3 img{
+	width: 100%;
+	text-align: center;
+}
+.title3 {
+	text-align: center;
+}
+.desc3{
+	text-align: center;
+}
